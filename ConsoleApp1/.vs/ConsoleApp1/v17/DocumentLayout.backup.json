@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\heroes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\heroes\\hero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\skills\\frostskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\skills\\frostskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\ifrostskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\ifrostskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\skills\\fireskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\skills\\fireskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\factories\\herofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\factories\\herofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\loggers\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\loggers\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\skills\\baseskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\skills\\baseskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\skills\\swordskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\skills\\swordskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\iherofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\iherofactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\ifireskill .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\ifireskill .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\iskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\iskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\iattackskill .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\iattackskill .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|c:\\users\\developer pc\\source\\repos\\consoleapp1\\consoleapp1\\abstract\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03EB27BA-386E-422A-B3DB-5074EABBDD03}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\abstract\\ihero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HeroFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factories\\HeroFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Factories\\HeroFactory.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Factories\\HeroFactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Factories\\HeroFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:18:11.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Loggers\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Loggers\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Loggers\\ConsoleLogger.cs",
+              "RelativeToolTip": "ConsoleApp1\\Loggers\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:17:51.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrostSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\FrostSkill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Skills\\FrostSkill.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\FrostSkill.cs",
+              "RelativeToolTip": "ConsoleApp1\\Skills\\FrostSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:16:27.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FireSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\FireSkill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Skills\\FireSkill.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\FireSkill.cs",
+              "RelativeToolTip": "ConsoleApp1\\Skills\\FireSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:15:52.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SwordSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\SwordSkill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Skills\\SwordSkill.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\SwordSkill.cs",
+              "RelativeToolTip": "ConsoleApp1\\Skills\\SwordSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:14:17.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\BaseSkill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Skills\\BaseSkill.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Skills\\BaseSkill.cs",
+              "RelativeToolTip": "ConsoleApp1\\Skills\\BaseSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:13:58.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Hero.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Heroes\\Hero.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Heroes\\Hero.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Heroes\\Hero.cs",
+              "RelativeToolTip": "ConsoleApp1\\Heroes\\Hero.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwCMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:13:32.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IHeroFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IHeroFactory.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\IHeroFactory.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IHeroFactory.cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\IHeroFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:13:04.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\ILogger.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\ILogger.cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:12:42.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFrostSkill.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IFrostSkill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\IFrostSkill.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IFrostSkill.cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\IFrostSkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:11:32.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IFireSkill .cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IFireSkill .cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\IFireSkill .cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IFireSkill .cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\IFireSkill .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:10:26.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAttackSkill .cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IAttackSkill .cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\IAttackSkill .cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IAttackSkill .cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\IAttackSkill .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:10:07.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ISkill.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\ISkill.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\ISkill.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\ISkill.cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\ISkill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:09:43.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IHero.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IHero.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Abstract\\IHero.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Abstract\\IHero.cs",
+              "RelativeToolTip": "ConsoleApp1\\Abstract\\IHero.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:09:24.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Developer PC\\source\\repos\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T17:07:25.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
